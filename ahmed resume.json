@@ -1,0 +1,105 @@
+{
+    "name": "Ahmed Arsallan",
+    "contact": {
+        "location": "Uttar Pradesh",
+        "phone": "91-8840350269",
+        "email": "ahmedarsallan93@gmail.com",
+        "linkedin": "https://linkedin.com/in/ahmarsallan/",
+        "github": "https://github.com/ahmarsallan45562/"
+    },
+    "education": [
+        {
+            "institution": "Lovely Professional University, Phagwara, Punjab",
+            "degree": "M.Tech. in Data Science and Analytics",
+            "cgpa": "7.8",
+            "duration": "2023 – 2025"
+        },
+        {
+            "institution": "Integral University, Lucknow, Uttar Pradesh",
+            "degree": "B.Tech in Mechanical",
+            "cgpa": "8.28",
+            "duration": "2019 – 2023"
+        },
+        {
+            "institution": "Children College, Azamgarh, Uttar Pradesh",
+            "degree": "Higher Secondary",
+            "percentage": "80",
+            "duration": "2017 – 2019"
+        }
+    ],
+    "coursework_skills": [
+        "Data Analysis",
+        "Data preprocessing",
+        "OOPS Concept",
+        "(DBMS)"
+    ],
+    "projects": [
+        {
+            "name": "Vrinda Store Sales Analysis",
+            "tech": ["Microsoft Excel"],
+            "description": [
+                "Created a Dashboard using Excel that showed the store’s sales analysis through different medium.",
+                "Assisted them focusing on inventory management.",
+                "Assisted them in increasing the revenue."
+            ]
+        },
+        {
+            "name": "HR Analysis",
+            "tech": ["Power BI", "MS Excel"],
+            "description": [
+                "Conducted Comprehensive Analysis on Employee Attrition Trends.",
+                "Helped in keeping track on Employees performance."
+            ]
+        },
+        {
+            "name": "Laptop Price Prediction",
+            "tech": ["Python"],
+            "description": [
+                "Developed a machine learning model using linear regression to predict laptop prices based on brand, specifications, and features.",
+                "Involved in data collection, preprocessing, feature engineering, and training the regression model.",
+                "Evaluated model performance using metrics like Mean Absolute Error (MAE) and Root Mean Squared Error (RMSE)."
+            ]
+        },
+        {
+            "name": "Olympics Data Analysis",
+            "tech": ["Python"],
+            "description": [
+                "Analyzed 120 years of Olympic data until 2016 to uncover trends and insights.",
+                "Performed data cleaning and preprocessing on historical Olympic datasets.",
+                "Conducted exploratory data analysis to identify key patterns in athlete performance, medal distribution, and country participation.",
+                "Created visualizations to represent data insights and trends effectively."
+            ]
+        }
+    ],
+    "internship": {
+        "title": "Data Scientist",
+        "company": "CodSoft",
+        "duration": "01 July 2024 – 31 July 2024",
+        "description": [
+            "Experienced in data preprocessing, normalization, and addressing class imbalances.",
+            "Proficient with Python, including Pandas and Scikit-learn, for machine learning tasks.",
+            "Developed strong problem-solving skills and effective communication through real-world data projects."
+        ]
+    },
+    "technical_skills": {
+        "languages": ["Python"],
+        "skills": ["Data Analytics"],
+        "technologies_frameworks": ["Excel", "SQL", "PowerBI", "Numpy", "Pandas", "Matplotlib"]
+    },
+    "achievements": [
+        {
+            "name": "Leetcode",
+            "description": "Solved 50 questions of SQL"
+        }
+    ],
+    "certifications": [
+        {
+            "name": "Database Structures and Management with MySql Certification by Meta",
+            "provider": "Coursera"
+        },
+        {
+            "name": "Introduction to Statistics from Stanford Online",
+            "provider": "Coursera"
+        }
+    ]
+}

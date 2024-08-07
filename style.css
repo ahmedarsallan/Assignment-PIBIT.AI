@@ -1,0 +1,89 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    background-color: #f4f4f9;
+    color: #333;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    height: 100vh;
+    overflow-y: auto;
+}
+
+.container {
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: #fff;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
+}
+
+h1 {
+    font-size: 2.5em;
+    color: #4A90E2;
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+h2 {
+    font-size: 1.8em;
+    color: #4A90E2;
+    border-bottom: 2px solid #4A90E2;
+    padding-bottom: 5px;
+    margin-bottom: 15px;
+}
+
+.section {
+    margin-bottom: 20px;
+}
+
+.section div, .section p, .section ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+.section ul {
+    padding-left: 20px;
+}
+
+.section ul li {
+    margin-bottom: 10px;
+}
+
+.section p strong {
+    color: #4A90E2;
+}
+
+a {
+    color: #4A90E2;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+.section-title {
+    font-size: 1.5em;
+    color: #4A90E2;
+    margin-bottom: 10px;
+}
+
+.skill-list, .contact-list, .education-list {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.skill-list div, .contact-list div, .education-list div {
+    width: 50%;
+    margin-bottom: 10px;
+}
+
+@media (max-width: 600px) {
+    .skill-list div, .contact-list div, .education-list div {
+        width: 100%;
+    }
+}
